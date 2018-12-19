@@ -7,3 +7,4 @@
     var s = document.getElementsByTagName(&#39;script&#39;)[0];
     s.parentNode.insertBefore(gcse, s);
   })();
+<gcse:search/>
